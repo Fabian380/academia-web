@@ -1,0 +1,11 @@
+{
+  "name": "academia-web",
+  "owner": { "name": "academia-web" },
+  "plugins": [
+    {
+      "name": "academia-web",
+      "source": "./",
+      "description": "Método para que Claude diseñe y mantenga el sitio web y el campus virtual de una academia (WordPress + Moodle)."
+    }
+  ]
+}

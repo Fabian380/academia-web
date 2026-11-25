@@ -1,0 +1,5 @@
+{
+  "name": "academia-web",
+  "version": "1.0.0",
+  "description": "Método para que Claude diseñe y mantenga el sitio web y el campus virtual de una academia (WordPress + Moodle)."
+}
