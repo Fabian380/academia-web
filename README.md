@@ -19,7 +19,7 @@ O copia la carpeta `skills/academia-web` dentro de `~/.claude/skills/`.
 ## Qué incluye
 
 - `SKILL.md`: reglas de trabajo y flujo para cada cambio.
-- `references/`: arquitectura, contenido de las páginas y privacidad.
+- `references/`: guías de arquitectura, contenido, privacidad, WordPress, Moodle, diseño, accesibilidad, textos, SEO y rendimiento, seguridad, hosting y respaldos, y skills recomendadas.
 - `templates/`: datos de ejemplo, un mu-plugin de retención de datos y una checklist.
 
 ## Licencia
