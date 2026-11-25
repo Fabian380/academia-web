@@ -1,0 +1,25 @@
+{
+  "contacto": { "correo": "info@ejemplo.com", "whatsapp": "+00 000 000 0000" },
+  "progs": [
+    {
+      "id": "preparatorio-a",
+      "nombre": "Preparatorio A",
+      "precio": 250000,
+      "intro": "Preparación para el examen de admisión, con simulacros y material de apoyo.",
+      "malla": {
+        "comps": [
+          { "codigo": "PA-01", "nombre": "Matemáticas" },
+          { "codigo": "PA-02", "nombre": "Lectura crítica" }
+        ]
+      },
+      "faq": [
+        { "p": "¿Cuántas horas dura?", "r": "120 horas en 16 semanas." },
+        { "p": "¿Hay simulacros?", "r": "Sí, uno al final de cada módulo." }
+      ]
+    }
+  ],
+  "accesos": [
+    ["inscripciones", "Inscripciones", "https://inscripciones.ejemplo.com/", "fa-user-plus"],
+    ["contacto", "Contacto", "https://contacto.ejemplo.com/", "fa-envelope"]
+  ]
+}
