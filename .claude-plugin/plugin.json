@@ -1,5 +1,5 @@
 {
   "name": "academia-web",
-  "version": "1.1.0",
-  "description": "Método para que Claude diseñe y mantenga el sitio web y el campus virtual de una academia (WordPress + Moodle)."
+  "version": "1.2.0",
+  "description": "Método para que Claude diseñe y mantenga el sitio web y el campus virtual de una academia (WordPress + Moodle), con una guía de diseño web paso a paso."
 }

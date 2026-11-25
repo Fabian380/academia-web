@@ -5,7 +5,7 @@
     {
       "name": "academia-web",
       "source": "./",
-      "description": "Método para que Claude diseñe y mantenga el sitio web y el campus virtual de una academia (WordPress + Moodle)."
+      "description": "Método para que Claude diseñe y mantenga el sitio web y el campus virtual de una academia (WordPress + Moodle), con una guía de diseño web paso a paso."
     }
   ]
 }
