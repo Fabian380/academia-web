@@ -61,7 +61,23 @@ Ver `references/contenido.md`. Puntos clave:
 Ver `references/privacidad.md`. Recoge solo lo necesario, explica en la política qué se guarda y por cuánto tiempo,
 y haz que el sistema **cumpla lo que dice la política** (por ejemplo, una tarea diaria que borra registros vencidos).
 
-## 6. Plantillas
+## 6. Guías por tema
+
+Lee solo la guía que necesites para la tarea:
+
+| Si la tarea es sobre… | Lee |
+|---|---|
+| Bloques, plugins, actualizaciones o ajustes de WordPress | `references/wordpress.md` |
+| Cursos, matrículas, roles, apariencia o copias de Moodle | `references/moodle.md` |
+| Aspecto visual, colores, tipografía, celular | `references/diseno-ui.md` |
+| Que todos puedan usar el sitio (teclado, lectores de pantalla, contraste) | `references/accesibilidad.md` |
+| Redactar o corregir textos de la web | `references/textos-web.md` |
+| Aparecer en Google y que el sitio cargue rápido | `references/seo-rendimiento.md` |
+| Proteger el sitio, cuentas y formularios | `references/seguridad.md` |
+| Hosting, SSL, DNS, correo, respaldos y tareas programadas | `references/hosting-respaldos.md` |
+| Otras skills públicas que complementan esta | `references/skills-recomendadas.md` |
+
+## 7. Plantillas
 
 En `templates/` hay ejemplos genéricos para copiar y adaptar:
 
