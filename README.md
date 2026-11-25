@@ -14,7 +14,7 @@ En Claude Code:
 /plugin install academia-web@academia-web
 ```
 
-O copia la carpeta `skills/academia-web` dentro de `~/.claude/skills/`.
+O copia las carpetas `skills/academia-web` y `skills/diseno-web` dentro de `~/.claude/skills/`.
 
 ## Cómo usarla, paso a paso
 
@@ -36,6 +36,13 @@ O copia la carpeta `skills/academia-web` dentro de `~/.claude/skills/`.
 - Revisa `references/skills-recomendadas.md` si quieres sumar otras skills públicas.
 
 ## Qué incluye
+
+Dos skills:
+
+- **academia-web**: el método para construir y mantener el sitio y el campus.
+- **diseno-web**: un método de diseño en 10 pasos que indica qué skill pública de diseño usar en cada paso, con enlaces, licencias y advertencias (`skills/diseno-web/references/catalogo.md`).
+
+Dentro de `skills/academia-web`:
 
 - `SKILL.md`: reglas de trabajo y flujo para cada cambio.
 - `references/`: guías de arquitectura, contenido, privacidad, WordPress, Moodle, diseño, accesibilidad, textos, SEO y rendimiento, seguridad, hosting y respaldos, y skills recomendadas.
